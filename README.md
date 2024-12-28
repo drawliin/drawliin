@@ -4,19 +4,12 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning [insert technology or language you're learning]
-- 👯 I’m looking to collaborate on [insert projects or types of projects you're interested in]
-- 🤔 I’m looking for help with [insert any areas you need help with]
-- 💬 Ask me about [insert topics you're knowledgeable about]
-- 📫 How to reach me: [insert contact information or social media links]
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: [insert a fun fact about yourself]
+- 📫 How to reach me: itshoussameddine@gmail.com
 
 ## 🛠️ Technologies & Tools
 
-- Programming Languages: [insert languages you are proficient in]
-- Frameworks: [insert frameworks you are familiar with]
-- Tools: [insert tools you use regularly]
+- Programming Languages: Python, JavaScript, PHP
+- Frameworks: Next.js, Vite, Bootstrap 
 
 ## 📈 GitHub Stats
 
@@ -24,10 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 
 
 
-## 📝 Recent Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 🌟 Featured Projects
 
