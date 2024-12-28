@@ -35,8 +35,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 
 ## 🌟 Featured Projects
 
-- [Project Name](insert link) - Brief description of the project.
-- [Project Name](insert link) - Brief description of the project.
+
+- [react-weather-app](https://react-weather-app-drawliin.netlify.app/) - A React application that displays weather information using a public API.
+
 
 ## ✨ Contributions
 
