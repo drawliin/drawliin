@@ -22,11 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 
 ![drawliin's GitHub stats](https://github-readme-stats.vercel.app/api?username=drawliin&show_icons=true&theme=tokyonight)
 
-## 📫 Connect with Me
 
-- [LinkedIn](insert link)
-- [Twitter](insert link)
-- [Personal Website](insert link)
 
 ## 📝 Recent Blog Posts
 
