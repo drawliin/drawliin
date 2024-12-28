@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 
 ## 📈 GitHub Stats
 
-![drawliin's GitHub stats](https://github-readme-stats.vercel.app/api?username=drawliin&show_icons=true&theme=tokyonight)
+![drawliin's GitHub stats](https://github-readme-stats.vercel.app/api?username=drawliin&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=79ff97&text_color=bd93f9&bg_color=282a36)
 
 
 
