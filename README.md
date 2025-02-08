@@ -22,7 +22,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 ## 🌟 Featured Projects
 
 
-- [react-weather-app](https://react-weather-app-drawliin.netlify.app/) - A React application that displays weather information using a public API.
+- [React Weather App](https://react-weather-app-drawliin.netlify.app/) - A React application that displays weather information using a public API.
+- [Task Manager](http://task-manager-app.infinityfreeapp.com/register.php) - A simple web-based task management application built with PHP
 
 
 ## ✨ Contributions
