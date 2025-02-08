@@ -9,7 +9,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 ## 🛠️ Technologies & Tools
 
 - Programming Languages: Python, JavaScript, PHP
-- Frameworks: Next.js, Vite, Bootstrap 
+- Frameworks& Libraries: React, Next.js, Vite, Bootstrap
+- Backend Technologies: Laravel, Node.js(Express.js)
+- Databases: MySQL, MongoDB
 
 ## 📈 GitHub Stats
 
