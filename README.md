@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 
 ## 📈 GitHub Stats
 
-![drawliin's GitHub stats](https://github-readme-stats.vercel.app/api?username=drawliin&show_icons=true&theme=tokyonight&title_color=ffd700&icon_color=ffb700&text_color=ffd700&bg_color=282a36)
+![Houssam's GitHub stats](https://github-readme-stats.vercel.app/api?username=drawliin&show_icons=true&theme=radical)
 
 
 
@@ -30,10 +30,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 [Simon Brain Game](https://react-simon-brain-game.netlify.app/) - "Responsive Simon Game Clone in ReactJS with dynamic gameplay, smooth animations, and high-score tracking." 🚀🎮
 
 
-
-## ✨ Contributions
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=drawliin&theme=tokyonight&ring=ffd700&fire=ffb700&currStreakLabel=ffd700&sideLabels=ffb700)
 
 ## 📅 Latest Activity
 
