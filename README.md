@@ -25,6 +25,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 
 ## 🌟 Featured Projects
 
+[AutoDeploy System](https://github.com/drawliin/Web-Based-Auto-Deploy-System.git) - An application that automatically clone, analyze, and deploy full-stack applications from GitHub, GitLab, or Bitbucket repositories.
+
 [React Weather App](https://react-weather-app-drawliin.netlify.app/) - A React application that displays weather information using a public API.
 
 [Task Manager](http://task-manager-app.infinityfreeapp.com/register.php) - A simple web-based task management application built with PHP.
