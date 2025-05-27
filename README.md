@@ -29,9 +29,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 
 [React Weather App](https://react-weather-app-drawliin.netlify.app/) - A React application that displays weather information using a public API.
 
+[Simon Brain Game](https://react-simon-brain-game.netlify.app/) - "Responsive Simon Game Clone in ReactJS with dynamic gameplay, smooth animations, and high-score tracking." 🚀🎮
 [Task Manager](http://task-manager-app.infinityfreeapp.com/register.php) - A simple web-based task management application built with PHP.
 
-[Simon Brain Game](https://react-simon-brain-game.netlify.app/) - "Responsive Simon Game Clone in ReactJS with dynamic gameplay, smooth animations, and high-score tracking." 🚀🎮
 
 
 
