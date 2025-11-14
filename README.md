@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=drawliin&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=drawliin&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitors](https://shields.io/badge/Visitors-Count-blue)
 
 
 ## 🌟 Featured Projects
