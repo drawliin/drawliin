@@ -21,7 +21,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 
 [Simon Brain Game](https://react-simon-brain-game.netlify.app/) - "Responsive Simon Game Clone in ReactJS with dynamic gameplay, smooth animations, and high-score tracking." 🚀🎮
 
-[Task Manager](http://task-manager-app.infinityfreeapp.com/register.php) - A simple web-based task management application built with PHP.
 
 
 
