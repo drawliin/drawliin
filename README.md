@@ -1,5 +1,12 @@
 ## Hi there..👋
 
+<img
+  align="right"
+  src="https://media.tenor.com/08X1Afpvy_0AAAAC/ci-failure-github.gif"
+  width="320"
+  alt="Coding animation"
+/>
+
 📍 **Morocco** | 💻 **Software Developer** | 🛠️ **Open-source contributor**
 
 > I build scalable web applications, contribute to open source, and keep refining how software is built and shipped
@@ -12,7 +19,7 @@
 
 ![](https://komarev.com/ghpvc/?username=drawliin&label=Profile%20Views&color=blue)
 
----
+<br/>
 
 ## Selected Work
 - **Administrative Chatbot** — RAG + OCR assistant for administrative procedures with a multi-chat React interface. [Code](https://github.com/drawliin/Chat-Bot-Administration)
