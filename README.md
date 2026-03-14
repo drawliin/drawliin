@@ -9,7 +9,8 @@
 
 📍 **Morocco** | 💻 **Software Developer** | 🛠️ **Open-source contributor**
 
-> I build scalable web applications, contribute to open source, and keep refining how software is built and shipped
+> I build scalable web applications, tools, contribute to open source, and keep refining how software is built and shipped
+> P.S: "Ship beats perfect"
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/drawliin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/drawliin)
