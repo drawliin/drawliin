@@ -24,6 +24,8 @@
 <br/>
 
 ## Selected Work
+- **envlint** — A Go CLI that audits `.env` files for missing, unused, and misconfigured environment variables. [Code](https://github.com/drawliin/envlint)
+- **Openclaw-SearXNG** — SearXNG integration for OpenClaw.. Providing Free Web Search Without Any API. [Code](https://github.com/drawliin/openclaw-searxng)
 - **Administrative Chatbot** — RAG + OCR assistant for administrative procedures with a multi-chat React interface. [Code](https://github.com/drawliin/Chat-Bot-Administration)
 - **URL Shortener** — Bitly-like service with production-style architecture and Fly.io deployment. [Live](https://url-shortener-front.fly.dev/) | [Code](https://github.com/drawliin/url-shortener)
 - **Invoice RPA** — OCR-driven automation pipeline for extracting and processing invoice data. [Code](https://github.com/drawliin/invoice-rpa)
