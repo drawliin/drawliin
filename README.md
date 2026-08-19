@@ -1,4 +1,4 @@
-## Hi there..👋
+## Hi there.. <img src="https://media.tenor.com/Ul8LOoNURUoAAAAj/kirby-walk.gif" width="25">
 
 <img
   align="right"
@@ -32,7 +32,7 @@
 - **AutoDeploy** — Platform that automates deployment workflows for full-stack projects. [Code](https://github.com/drawliin/Web-Based-Auto-Deploy-System)
 - **NET-CAT** — Concurrent TCP chat server in Go focused on networking fundamentals and performance. [Code](https://github.com/drawliin/NET-CAT)
 
-## Stack <img src="https://media.tenor.com/Ul8LOoNURUoAAAAj/kirby-walk.gif" width="25">
+## Stack 
 ![Go](https://img.shields.io/badge/go-00ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-000000.svg?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54)
