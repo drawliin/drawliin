@@ -32,7 +32,10 @@
 - **AutoDeploy** — Platform that automates deployment workflows for full-stack projects. [Code](https://github.com/drawliin/Web-Based-Auto-Deploy-System)
 - **NET-CAT** — Concurrent TCP chat server in Go focused on networking fundamentals and performance. [Code](https://github.com/drawliin/NET-CAT)
 
-## Stack
+## Stack <img src="https://media.tenor.com/Ul8LOoNURUoAAAAj/kirby-walk.gif" width="25">
+![Go](https://img.shields.io/badge/go-00ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-000000.svg?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -40,17 +43,13 @@
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-111111.svg?style=flat-square&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-00ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-000000.svg?style=flat-square&logo=rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=FF9900)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
 
-## GitHub
-![](https://github-readme-stats.vercel.app/api?username=drawliin&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=drawliin&theme=dark&hide_border=false)
 
 
