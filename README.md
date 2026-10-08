@@ -7,7 +7,7 @@
   alt="Coding animation"
 />
 
-📍 **Morocco** | 💻 **Software Developer** | 🛠️ **Open-source contributor**
+💻 **Software Developer** | 🛠️ **Open-source contributor**
 
 > I build scalable web applications, tools, contribute to open source, and keep refining how software is built and shipped
 
