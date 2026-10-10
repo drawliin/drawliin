@@ -19,8 +19,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://houssam-eddine-hamouich.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:itshoussameddine@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=drawliin&label=Profile%20Views&color=blue)
-
 <br/>
 
 ## Selected Work
