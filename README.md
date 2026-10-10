@@ -9,28 +9,34 @@
 
 💻 **Software Developer** | 🛠️ **Open-source contributor**
 
-> I build scalable web applications, tools, contribute to open source, and keep refining how software is built and shipped
+> I build scalable web applications, tools, contribute to open source, and enjoy working on the systems behind the software we use every day
+> 
+> My interests are in developer experience, backend reliability, infrastructure, and building software that's useful beyond the initial release
 
 > P.S: "Ship beats perfect"
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/drawliin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/drawliin)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/drawliin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://houssam-eddine-hamouich.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:itshoussameddine@gmail.com)
 
 <br/>
 
-## Selected Work
-- **envlint** — A Go CLI that audits `.env` files for missing, unused, and misconfigured environment variables. [Code](https://github.com/drawliin/envlint)
-- **Openclaw-SearXNG** — SearXNG integration for OpenClaw.. Providing Free Web Search Without Any API. [Code](https://github.com/drawliin/openclaw-searxng)
-- **Administrative Chatbot** — RAG + OCR assistant for administrative procedures with a multi-chat React interface. [Code](https://github.com/drawliin/Chat-Bot-Administration)
-- **URL Shortener** — Bitly-like service with production-style architecture and Fly.io deployment. [Live](https://url-shortener-front.fly.dev/) | [Code](https://github.com/drawliin/url-shortener)
-- **Invoice RPA** — OCR-driven automation pipeline for extracting and processing invoice data. [Code](https://github.com/drawliin/invoice-rpa)
-- **AutoDeploy** — Platform that automates deployment workflows for full-stack projects. [Code](https://github.com/drawliin/Web-Based-Auto-Deploy-System)
-- **NET-CAT** — Concurrent TCP chat server in Go focused on networking fundamentals and performance. [Code](https://github.com/drawliin/NET-CAT)
+### Open-source Contributions
 
-## Stack 
+- **[vltpkg](https://github.com/vltpkg/vltpkg)** — A modern JavaScript package manager focused on performance, security, and developer experience. [PRs ↗](https://github.com/vltpkg/vltpkg/pulls?q=is%3Apr+author%3Adrawliin)
+- **[Trivy](https://github.com/aquasecurity/trivy)** — An open-source security scanner for detecting vulnerabilities and misconfigurations. [PRs ↗](https://github.com/aquasecurity/trivy/pulls?q=is%3Apr+author%3Adrawliin)
+
+### Selected Work
+
+- **[envlint](https://github.com/drawliin/envlint)** — A Go CLI for auditing environment variables, detecting configuration drift, and checking `.env` file hygiene.
+- **[openClaw-SearXNG](https://github.com/drawliin/openclaw-searxng)** — Self-hosted web search integration for OpenClaw agents, powered by SearXNG.
+- **[chatbot](https://github.com/drawliin/Chat-Bot-Administration)** — RAG + OCR assistant for administrative procedures with a multi-chat React interface.
+- **[url-shortener](https://github.com/drawliin/url-shortener)** — Full-stack URL shortening service with backend APIs and cloud deployment. [Live ↗](https://url-shortener-front.fly.dev/)
+- **[invoice RPA](https://github.com/drawliin/invoice-rpa)** — OCR-driven automation pipeline for extracting and processing invoice data.
+- **[AutoDeploy](https://github.com/drawliin/Web-Based-Auto-Deploy-System)** — Platform for automating deployment workflows of full-stack applications.
+- **[NET-CAT](https://github.com/drawliin/NET-CAT)** — Concurrent TCP chat server built in Go, exploring networking and concurrency.
+
+### Stack 
 ![Go](https://img.shields.io/badge/go-00ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-000000.svg?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54)
