@@ -9,9 +9,7 @@
 
 💻 **Software Developer** | 🛠️ **Open-source contributor**
 
-> I build scalable web applications, tools, contribute to open source, and enjoy working on the systems behind the software we use every day
-> 
-> My interests are in developer experience, backend reliability, infrastructure, and building software that's useful beyond the initial release
+> I build developer tools, backend systems, and web applications, with a focus on reliability, infrastructure, and open-source software.
 
 > P.S: "Ship beats perfect"
 
