@@ -23,6 +23,7 @@
 
 - **[vltpkg](https://github.com/vltpkg/vltpkg)** — A modern JavaScript package manager focused on performance, security, and developer experience. [PRs ↗](https://github.com/vltpkg/vltpkg/pulls?q=is%3Apr+author%3Adrawliin)
 - **[Trivy](https://github.com/aquasecurity/trivy)** — An open-source security scanner for detecting vulnerabilities and misconfigurations. [PRs ↗](https://github.com/aquasecurity/trivy/pulls?q=is%3Apr+author%3Adrawliin)
+- **[Fabric](https://github.com/danielmiessler/Fabric)** — Open-source framework for augmenting humans with AI. [PRs ↗](https://github.com/danielmiessler/Fabric/pulls?q=is%3Apr+author%3Adrawliin)
 
 ### Selected Work
 
